@@ -1,8 +1,12 @@
 class CLI
     def run
         greeting
+        load_parks_data
         menu
+    end
 
+    def load_parks_data
+        
     end
 
     def greeting
