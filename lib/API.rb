@@ -1,4 +1,4 @@
-require_relative './environment'
+require_relative '../config/environment'
 
 BASE_URL = "https://developer.nps.gov/api/v1/parks"
 park_code = "?parkCode=acad&api_key="
